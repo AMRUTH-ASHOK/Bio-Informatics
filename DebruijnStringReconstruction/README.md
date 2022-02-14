@@ -4,6 +4,7 @@
 https://www.coursera.org/specializations/bioinformatics#instructors
 
 ## The algorithm followed in this method is clearly explained in the below videos
+Follow the videos in the given sequence
 #### https://www.youtube.com/watch?v=xYHpuZLvB2s&t=1s
 #### https://www.youtube.com/watch?v=6DI3SB7DyFY
 #### https://www.youtube.com/watch?v=f-ecmECK7lw
