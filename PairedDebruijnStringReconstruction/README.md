@@ -15,4 +15,5 @@ Follow the videos in the given sequence
 Note: The primary objective is to arrange the kmers as a graph, find a eulerian path and subsequently reconstruct the string based on the eulerian path. Paired Debruijn String Reconstruction gives a unique reconstructed string. The code has been made as generic as possible, hence it works with even 100000 base pairs or higher.
 
 
-A comparison of efficiency and performance of Hamiltonian, Debruijn, and Paired Debruijn String reconstruction has been made. ### refer to Question 2 in the report for this
+A comparison of efficiency and performance of Hamiltonian, Debruijn, and Paired Debruijn String reconstruction has been made.
+### refer to Question 2 in the report for this
